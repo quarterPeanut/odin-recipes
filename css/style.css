@@ -1,8 +1,12 @@
+/*-- universal --*/
+
 * {
     box-sizing: border-box;
     margin: 0px;
     padding: 0px;
 }
+
+/*-- index.html --*/
 
 .index-container {
     border: 2px solid #000000;
@@ -12,3 +16,9 @@
     transform: translate(-50%, -50%);
     padding: 20px;
 }
+
+.index-container h1 {
+    text-align: center;
+    padding-bottom: 5px;
+}
+
