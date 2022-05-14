@@ -8,7 +8,6 @@
 
 a {
     text-decoration: none;
-    font-weight: bold;
     color:blue;
 }
 
@@ -32,3 +31,11 @@ a:hover {
     padding-bottom: 5px;
 }
 
+/*-- global recipes--*/
+
+.recipe-container {
+    width: 80%;
+    border: 1px solid gray;
+    margin: auto;
+    padding: 10px 80px;
+}
