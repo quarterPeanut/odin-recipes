@@ -20,6 +20,10 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
 }
 
+img {
+    max-width: 500px
+}
+
 /*-- index.html --*/
 
 .index-container {
