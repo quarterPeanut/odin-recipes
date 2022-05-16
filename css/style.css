@@ -79,6 +79,10 @@ p, li {
     line-height: 2;
 }
 
+.steps li {
+    list-style-type: none;
+}
+
 /*------------ NOTES ------------
 
 * h1 in hungarian potato soup.html and link text in index.html space weirdly when viewport is crunched
