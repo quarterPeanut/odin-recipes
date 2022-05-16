@@ -54,7 +54,14 @@ img {
     padding: 10px 80px;
 }
 
+.recipe-container h1, h2 {
+    padding-bottom: 20px;
+}
+
+.recipe-container h1 {
+    padding-top: 10px;
+}
+
 .recipe-container h2 {
     padding-top: 20px;
-    padding-bottom: 20px;
 }
