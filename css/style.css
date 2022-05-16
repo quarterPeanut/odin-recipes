@@ -23,11 +23,6 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
 }
 
-img {
-    max-width: 100%;
-    max-height: 500px;
-}
-
 /*-- index.html --*/
 
 .index-container {
@@ -66,4 +61,9 @@ img {
 
 .recipe-container h2 {
     padding-top: 20px;
+}
+
+.recipe-container img {
+    max-width: 100%;
+    max-height: 500px;
 }
