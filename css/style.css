@@ -61,10 +61,12 @@ p, li {
 
 .recipe-container h1 {
     padding-top: 10px;
+    font-size: 40px;
 }
 
 .recipe-container h2 {
     padding-top: 20px;
+    font-size: 25px;
 }
 
 .recipe-container img {
