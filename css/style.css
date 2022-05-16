@@ -46,7 +46,15 @@ img {
 
 .recipe-container {
     width: 80%;
+    /*-- to see edges of container better --*/
+    /*
     border: 1px solid gray;
+    --*/
     margin: auto;
     padding: 10px 80px;
+}
+
+.recipe-container h2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
