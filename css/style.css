@@ -39,6 +39,7 @@ p, li {
 }
 
 .index-container h1 {
+    font-size: 30px;
     text-align: center;
     padding-bottom: 5px;
 }
