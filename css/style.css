@@ -71,6 +71,14 @@ p, li {
     max-height: 500px;
 }
 
+.recipe-container p, li {
+    line-height: 1.4;
+}
+
+.ingredients li {
+    line-height: 2;
+}
+
 /*------------ NOTES ------------
 
 * h1 in hungarian potato soup.html and link text in index.html space weirdly when viewport is crunched
