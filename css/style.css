@@ -7,6 +7,7 @@
     font-family: Arial, Helvetica, sans-serif;
     text-align: justify;
     letter-spacing: .2px;
+    /* Should this be deleted? */
     line-height: 1.1;
 }
 
@@ -79,8 +80,13 @@ p, li {
     line-height: 2;
 }
 
+.steps h3 {
+    padding-bottom: 10px;
+}
+
 .steps li {
     list-style-type: none;
+    padding-bottom: 20px;
 }
 
 /*------------ NOTES ------------
