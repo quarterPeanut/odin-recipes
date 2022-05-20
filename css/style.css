@@ -13,11 +13,11 @@
 
 a {
     text-decoration: none;
-    color:blue;
+    color:rgb(129, 129, 129);
 }
 
 a:hover {
-    color: indigo;
+    color: rgb(104, 104, 104);
 }
 
 h1 {
